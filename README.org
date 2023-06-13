@@ -1,0 +1,10 @@
+* mtif
+
+A Common Lisp interface to the Apple multitouch trackpad
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/rmhsilva/mtif.git   |
+| commit  | efcb7c9  |
+| systems | mtif |
+|---------+-------------------------------------------|
+
